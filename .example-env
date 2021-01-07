@@ -1,0 +1,12 @@
+# -----------------------------------------------------------------------------
+# Secrets are stored here.
+# -----------------------------------------------------------------------------
+NODE_ENV=development
+
+# Optional database configuration.
+PGHOST=lev-postgres
+PGPORT=5432
+PGUSER=fvv_questionary
+PGPASSWORD=password
+
+REACT_APP_CAPTCHA_SITE_KEY=6LcGX-YZAAAAAGodFykzl6VvRuxcg_xbwT4ieAhy
