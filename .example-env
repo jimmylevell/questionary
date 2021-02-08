@@ -9,4 +9,7 @@ PGPORT=5432
 PGUSER=fvv_questionary
 PGPASSWORD=password
 
+REACT_APP_VERSION=1.0.0
+REACT_APP_NAME=$npm_package_name
+
 REACT_APP_CAPTCHA_SITE_KEY=6LcGX-YZAAAAAGodFykzl6VvRuxcg_xbwT4ieAhy
