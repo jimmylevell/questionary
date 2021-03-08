@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "epilogue": "^0.7.1",
     "express": "^4.17.1",
-    "final-form": "^4.20.1",
+    "final-form": "^4.20.2",
     "finale-rest": "^1.1.1",
     "i18next": "^19.9.0",
     "i18next-browser-languagedetector": "^6.0.1",
